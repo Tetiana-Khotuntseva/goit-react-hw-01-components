@@ -36,4 +36,5 @@ tag: PropTypes.string.isRequired,
 location: PropTypes.string,
 alt: PropTypes.string,
 };
+
 export default Profile;
